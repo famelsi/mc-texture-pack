@@ -1,0 +1,21 @@
+{
+  "language.name": "Francais",
+  "language.region": "FR",
+  "language.code": "fr_fr",
+
+  "item.minecraft.milk_bucket": "§dSeieki",
+
+  "item.minecraft.music_disc_11"     : "The Muffin Song",
+  "item.minecraft.music_disc_13"     : "Ronan fail son japonais",
+  "item.minecraft.music_disc_blocks" : "RONAN - JCVD",
+  "item.minecraft.music_disc_cat"    : "S3RL - MTC",
+  "item.minecraft.music_disc_chirp"  : "RONAN _ Millionnaire",
+  "item.minecraft.music_disc_far"    : "RONAN - Pour la paix",
+  "item.minecraft.music_disc_mall"   : "RONAN - Comptine",
+  "item.minecraft.music_disc_mellohi": "Raining Tacos",
+  "item.minecraft.music_disc_pigstep": "RONAN X LEFA",
+  "item.minecraft.music_disc_stal"   : "RONAN - FLEUR DU MAL",
+  "item.minecraft.music_disc_strad"  : "RONAN - NOIRREAUDE",
+  "item.minecraft.music_disc_wait"   : "RONAN - Bande Organisée",
+  "item.minecraft.music_disc_ward"   : "RONAN - BIZARRE"
+}
